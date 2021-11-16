@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Net5ConaoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--cfg \"the cfg file.cfg\""
+    }
+  }
+}

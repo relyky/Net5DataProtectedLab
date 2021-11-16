@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Net5ConsoleBpp": {
+      "commandName": "Project",
+      "commandLineArgs": "--cfg \"the cfg file.cfg\""
+    }
+  }
+}
